@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Volumes/Cookie/Demo_Pragrame/iOS_AOP/SimpleHotFix/HotFix/FEPatch.js">
+   </FileRef>
+   <FileRef
+      location = "group:/Volumes/Cookie/Demo_Pragrame/iOS_AOP/SimpleHotFix/HotFix/FixEngine.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Volumes/Cookie/Demo_Pragrame/iOS_AOP/SimpleHotFix/HotFix/FixEngine.m">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
